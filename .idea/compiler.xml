@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Gestion.des.Patients" />
+        <module name="Full.Project" />
+        <module name="spring-ai" />
+        <module name="Service.de.Gestion.des.Medecins" />
+        <module name="Service.de.Gestion.des.Rendez-vous" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Full.Project" target="17" />
+      <module name="Gestion.des.Patients" target="17" />
+      <module name="micro.observability" target="1.5" />
+      <module name="Service.de.Gestion.des.Medecins" target="17" />
+      <module name="Service.de.Gestion.des.Rendez-vous" target="17" />
+      <module name="spring-ai" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Full.Project" options="-parameters" />
+      <module name="Gestion.des.Patients" options="-parameters" />
+      <module name="Service.de.Gestion.des.Medecins" options="-parameters" />
+      <module name="Service.de.Gestion.des.Rendez-vous" options="-parameters" />
+      <module name="spring-ai" options="-parameters" />
+    </option>
+  </component>
+</project>

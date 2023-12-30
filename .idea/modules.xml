@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro.observability/EurekaServer/Full.Project.iml" filepath="$PROJECT_DIR$/micro.observability/EurekaServer/Full.Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro.observability/Service.de.Gestion.des.Patients/Gestion.des.Patients.iml" filepath="$PROJECT_DIR$/micro.observability/Service.de.Gestion.des.Patients/Gestion.des.Patients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro.observability/Service.de.Gestion.des.Medecins/Service.de.Gestion.des.Medecins.iml" filepath="$PROJECT_DIR$/micro.observability/Service.de.Gestion.des.Medecins/Service.de.Gestion.des.Medecins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro.observability/Service.de.Gestion.des.Rendez-vous/Service.de.Gestion.des.Rendez-vous.iml" filepath="$PROJECT_DIR$/micro.observability/Service.de.Gestion.des.Rendez-vous/Service.de.Gestion.des.Rendez-vous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringAI-MicroServices.iml" filepath="$PROJECT_DIR$/.idea/SpringAI-MicroServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro.observability/micro.observability.iml" filepath="$PROJECT_DIR$/micro.observability/micro.observability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ai/spring-ai.iml" filepath="$PROJECT_DIR$/spring-ai/spring-ai.iml" />
+    </modules>
+  </component>
+</project>
